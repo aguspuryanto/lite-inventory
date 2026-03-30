@@ -1,0 +1,5 @@
+{
+  "name": "Essential Oil Inventory",
+  "description": "Aplikasi web inventory untuk usaha Essential Oil dengan fitur pencatatan order, bahan baku, produksi, dan traceability.",
+  "requestFramePermissions": []
+}
